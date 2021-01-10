@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for editing images (resizing / optimization / adding watermarks) in fly",
   "main": "index.js",
   "keywords": [
