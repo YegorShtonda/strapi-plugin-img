@@ -1,0 +1,17 @@
+{
+  "name": "strapi-plugin-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yagor Shtonda",
+  "license": "ISC",
+  "dependencies": {
+    "fast-average-color-node": "^1.0.3",
+    "md5": "^2.3.0",
+    "mime-types": "^2.1.27",
+    "sharp": "^0.26.3"
+  }
+}
