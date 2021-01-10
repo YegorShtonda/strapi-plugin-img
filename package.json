@@ -1,12 +1,18 @@
 {
   "name": "strapi-plugin-img",
   "version": "1.0.0",
-  "description": "",
+  "description": "Plugin for editing images (resizing / optimization / adding watermarks) in fly",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Yagor Shtonda",
+  "keywords": [
+    "strapi",
+    "plugin",
+    "image",
+    "resize",
+    "optimize",
+    "watermark",
+    "fly"
+  ],
+  "author": "Yegor Shtonda <shtyegor@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "fast-average-color-node": "^1.0.3",
