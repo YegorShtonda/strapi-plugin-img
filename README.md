@@ -6,6 +6,9 @@ It's plugin for editing images (resizing / optimization / adding watermarks) in 
 or
 `$ yarn add strapi-plugin-img`
 
+You need to create folder `images` in your public directory.
+For example: `your-strapi-project/public/images`
+
 ## Usage
 
 ### Endpoint
