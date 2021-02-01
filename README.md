@@ -18,7 +18,7 @@ For example: `your-strapi-project/public/images`
 Example:
 
 decoded
-`
+```json
 {
     "image": "your-image.jpeg",
     "webp": false,
@@ -39,7 +39,7 @@ decoded
         }
     }
 }
-`
+```
 
 encoded(base64)
 `eyJpbWFnZSI6Ii91cGxvYWRzL2ltYWdlc...`
